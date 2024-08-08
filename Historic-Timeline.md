@@ -1,12 +1,13 @@
-<!--
-title: Historic Timeline
-description: A list of milestones and network events
-published: true
-date: 2023-10-22T08:34:15.428Z
-tags: 
-editor: code
-dateCreated: 2023-10-22T08:34:15.428Z
--->
+| Title       | Historic Timeline           |
+|-------------|-----------------------------|
+| Description | A list of milestones and network events|
+| Published   | true                        |
+| Date        | 2023-10-22T08:34:15.428Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T08:34:15.428Z    |
+
+
 
 
 <figure class="table">
