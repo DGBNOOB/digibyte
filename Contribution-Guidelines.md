@@ -1,12 +1,11 @@
----
-title: Contribution Guidelines
-description: Guide to contribute to the DigiByte Wiki
-published: true
-date: 2023-10-22T11:38:22.657Z
-tags: 
-editor: markdown
-dateCreated: 2023-10-22T09:24:43.645Z
----
+| Title       | Contribution Guidelines     |
+|-------------|-----------------------------|
+| Description | Guide to contribute to the DigiByte Wiki|
+| Published   | true                        |
+| Date        | 2023-10-22T11:38:22.657Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T09:24:43.645Z    |
 
 # Contribution Guidelines
 
