@@ -14,7 +14,7 @@ Thank you for considering contributing to the DigiByte Blockchain Community Wiki
 
 ## Where to Contribute
 
-We accept contributions exclusively through GitHub, using Pull Requests (PRs) made to the `Develop` branch of our repository. You can find our GitHub repository here: [DigiByte Wiki GitHub Repository](https://github.com/dgbat/digibyte-wiki).
+We accept contributions exclusively through GitHub, using Pull Requests (PRs) made to the `Develop` branch of our repository. You can find our GitHub repository here: [DigiByte Wiki GitHub Repository](https://github.com/DigiByte-Core/digibyte/wiki).
 
 ## Preferred Syntax for Contribution
 
@@ -115,7 +115,7 @@ git commit -m "Add new content to file1.md"
 git push origin feature/descriptive-branch-name
 ```
 
-2. **Create a Pull Request (PR)**: Navigate to the [DigiByte Wiki GitHub Repository](https://github.com/dgbat/digibyte-wiki), click on "New Pull Request," and choose your branch.
+2. **Create a Pull Request (PR)**: Navigate to the [DigiByte Wiki GitHub Repository](https://github.com/DigiByte-Core/digibyte/wiki), click on "New Pull Request," and choose your branch.
 
 ### Branch Naming Convention
 
