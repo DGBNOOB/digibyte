@@ -1,12 +1,12 @@
----
-title: Install DigiByte Core
-description: A guide on how to install DigiByte Core on Linux, Windows & MacOS
-published: true
-date: 2023-10-22T08:40:09.805Z
-tags: 
-editor: markdown
-dateCreated: 2023-10-22T08:40:09.805Z
----
+| Title       | Install DigiByte Core        |
+|-------------|-----------------------------|
+| Description | A guide on how to install DigiByte Core on Linux, Windows & MacOS|
+| Published   | true                        |
+| Date        | 2023-10-22T08:40:09.805Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T08:40:09.805Z    |
+
 
 # Linux
 
