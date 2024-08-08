@@ -1,12 +1,11 @@
-<!--
-title: Technical Specifications
-description: 
-published: true
-date: 2023-10-22T10:17:40.250Z
-tags: 
-editor: code
-dateCreated: 2023-10-22T10:17:40.250Z
--->
+| Title       | Technical Specifications    |
+|-------------|-----------------------------|
+| Description |                             |
+| Published   | true                        |
+| Date        | 2023-10-22T10:17:40.250Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T10:17:40.250Z    |
 
 
 <h3 class="toc-header" id="ledger"> Ledger</h3>
