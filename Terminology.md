@@ -1,12 +1,12 @@
----
-title: Terminology
-description: 
-published: true
-date: 2023-10-22T10:20:55.378Z
-tags: 
-editor: markdown
-dateCreated: 2023-10-22T10:19:41.696Z
----
+| Title       | Terminology                 |
+|-------------|-----------------------------|
+| Description |                             |
+| Published   | true                        |
+| Date        | 2023-10-22T10:20:55.378Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T10:19:41.696Z    |
+
 
 # Purpose
 
