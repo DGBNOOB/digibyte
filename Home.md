@@ -1,12 +1,11 @@
----
-title: Home
-description: 
-published: true
-date: 2023-10-22T10:29:51.174Z
-tags: 
-editor: markdown
-dateCreated: 2023-10-21T16:11:24.368Z
----
+| Title       | Home                        |
+|-------------|-----------------------------|
+| Description |                             |
+| Published   | true                        |
+| Date        | 2023-10-22T10:29:51.174Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-21T16:11:24.368Z    |
 
 # DigiByte Blockchain
 
