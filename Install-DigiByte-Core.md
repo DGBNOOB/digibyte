@@ -1,11 +1,11 @@
 ---
 title: Install DigiByte Core
-description: Guides for installing the official DigiByte Core software wallet.
+description: A guide on how to install DigiByte Core on Linux, Windows & MacOS
 published: true
-date: 2022-11-04T10:51:47.731Z
+date: 2023-10-22T08:40:09.805Z
 tags: 
 editor: markdown
-dateCreated: 2022-11-02T11:57:05.444Z
+dateCreated: 2023-10-22T08:40:09.805Z
 ---
 
 # Linux
@@ -136,6 +136,10 @@ cd digibyte-7.17.3/bin/
 
 # Windows
 
+INCOMPLETE...
+
 # macOS
+
+INCOMPLETE...
 
 # Configuration
