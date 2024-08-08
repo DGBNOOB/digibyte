@@ -7,9 +7,7 @@
 | Editor      | markdown                    |
 | DateCreated | 2023-10-22T08:34:15.428Z    |
 
-
-
-
+<br>
 <figure class="table">
   <table>
     <thead>
