@@ -1,13 +1,11 @@
----
-title: Run a open full node
-description: Runnning a full node is an easy way to contribute to DigiByte and help maintain the consensus on the Blockchain.
-published: true
-date: 2023-10-22T11:32:22.734Z
-tags: 
-editor: markdown
-dateCreated: 2023-10-22T08:36:51.458Z
----
-
+| Title       | Run a open full node        |
+|-------------|-----------------------------|
+| Description | Running a full node is an easy way to contribute to DigiByte and help maintain the consensus on the Blockchain.|
+| Published   | true                        |
+| Date        | 2023-10-22T11:32:22.734Z    |
+| Tags        |                             |
+| Editor      | markdown                    |
+| DateCreated | 2023-10-22T08:36:51.458Z    |
 
 # Run a open full node
 
