@@ -67,4 +67,4 @@ For official information and updates, visit the [DigiByte website](https://www.d
 
 _**Note**: This Wiki is community-driven and not affiliated with the official DigiByte project. We aim to provide unbiased and informative content about the DigiByte Blockchain._
 
-Feel free to add to the content through [Github](https://github.com/DigiByte-Core/digibyte/wiki/).
+Feel free to add to the content through [Github](https://github.com/dgbat/digibyte-wiki/).
