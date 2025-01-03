@@ -151,20 +151,19 @@ class BlockchainTest(DigiByteTestFramework):
                 'type': 'buried',
                 'active': False,
                 'height': 1000000 # due to easypow
-            }
-            #  Taproot code was removed from getblockchaininfo for time being
-   #         'taproot': {
-   #             'type': 'bip9',
-   #             'bip9': {
-   #                 'status': 'active',
-   #                 'start_time': -1,
-   #                 'timeout': 9223372036854775807,
-   #                 'since': 0,
-   #                 'min_activation_height': 0,
-   #             },
-   #             'height': 0,
-   #             'active': True
-   #         }
+            },
+           'taproot': {
+               'type': 'bip9',
+               'bip9': {
+                   'status': 'active',
+                   'start_time': -1,
+                   'timeout': 9223372036854775807,
+                   'since': 0,
+                   'min_activation_height': 0
+               },
+               'height': 0,
+               'active': True
+           }
         })
 
     def _test_getchaintxstats(self):

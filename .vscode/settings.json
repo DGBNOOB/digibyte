@@ -26,5 +26,6 @@
     "cinttypes": "cpp",
     "typeindex": "cpp",
     "ios": "cpp"
-  }
+  },
+  "cmake.ignoreCMakeListsMissing": true
 }
